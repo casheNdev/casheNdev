@@ -1,5 +1,7 @@
 [casheN]
 
+Grade | 10
+Nationality | German
 Contact | casheN@voidcube.de
 
 <accepting no commissions, spam will be blocked>
